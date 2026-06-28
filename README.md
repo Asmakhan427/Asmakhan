@@ -96,8 +96,9 @@ Currently, I'm expanding my expertise in AI, software engineering, and competiti
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
-
-MATLAB • Arduino IDE • Canva
+- MATLAB 
+- Arduino IDE 
+- Canva
 ---
 
 # 🚀 Featured AI & Systems Projects
@@ -119,7 +120,6 @@ I actively participate in hackathons and programming competitions to strengthen 
 | 🧩 **Harvard Puzzle Day 2025** | **Winner** – Led a team of three and successfully solved **10/10 puzzles**. |
 | 🌍 **International Hackathons** | Participated in **5+ international hackathons**, competing against **3,000+ developers** on Devpost. |
 | 🎯 **CALICO Programming Contest (UC Berkeley)** | Ranked among the **Top 30%** of over **800 participants**. |
-| 💡 **LeetCode** | Solved **50+ coding problems** and regularly practice data structures and algorithms. |
 
 
 # 📌 Currently Exploring
