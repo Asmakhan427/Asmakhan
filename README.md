@@ -205,7 +205,23 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 - ☁️ Cloud Technologies
 
 ---
+---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="1141" height="697" alt="image" src="https://github.com/user-attachments/assets/772d4cb7-54e6-426d-ae62-b1843550daaf" />
+<img width="1156" height="508" alt="image" src="https://github.com/user-attachments/assets/1327d668-02d9-4138-aae7-568ee3a17e4d" />
+
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhan427&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
 # 🤝 Let's Connect
 
 <div align="center">
