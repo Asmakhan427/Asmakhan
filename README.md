@@ -23,7 +23,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
 
@@ -31,7 +31,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages
 `C++` `C` `Python` `JavaScript` `HTML` `CSS` `SQL`
@@ -50,7 +50,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -60,7 +60,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## 🏆 Hackathons & Competitions
+##  Hackathons & Competitions
 
 | Competition | Achievement |
 |-------------|-------------|
@@ -72,7 +72,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
