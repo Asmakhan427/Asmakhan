@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/asma-khan-28a552349">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Asmakhan427/Asmakhan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -26,129 +26,102 @@
 </div>
 
 ---
+## 👩‍💻 About Me
 
-#  About Me
+I'm **Asma Khan**, a Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
 
-Hi, I'm **Asma Khan**, a Computer Science undergraduate at **FAST National University of Computer & Emerging Sciences (FAST-NUCES), Faisalabad**.
+I enjoy building intelligent software using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**. My interests include solving algorithmic problems, participating in hackathons, and developing practical solutions that address real-world challenges.
 
-I enjoy building intelligent software systems that combine **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, and **Full-Stack Development** to solve real-world problems.
----
-#  Education
+Currently, I'm expanding my expertise in AI, software engineering, and competitive programming through academic projects, research, and international hackathons.
 
-### FAST National University of Computer & Emerging Sciences (FAST-NUCES)
-
-**Bachelor of Science in Computer Science**
-
-📍 Faisalabad, Pakistan
-
-**2024 – 2028**
-
----
-
-#  Experience
+# 💼 Experience
 
 ## Development Co-Lead
-
 **ACM Student Chapter — FAST University**
 
-- Organizing technical workshops and coding events
-- Leading development activities within the society
-- Mentoring junior students on technical projects
+- Organize technical workshops and development activities
+- Mentor fellow students on technical projects
+- Collaborate on society events and software initiatives
 
 ---
 
 ## Frontend Development Intern
-
-**CodeAlpha**
-
+**CodeAlpha**  
 **July 2025 – August 2025**
 
-- Developed responsive websites using HTML, CSS, and JavaScript
-- Built interactive web applications with a focus on user experience
-- Improved frontend performance and responsiveness
+- Developed responsive websites using HTML, CSS and JavaScript
+- Built interactive web applications including an Image Gallery and Calculator
+- Improved UI responsiveness and user experience
 
 ---
 
 ## Social Media Marketing Intern
-
-**Erudite Coaching Center**
-
+**Erudite Coaching Center**  
 **August 2025 – December 2025**
 
-- Designed digital marketing campaigns
-- Created technical content for social media platforms
-- Increased audience engagement through strategic content planning
+- Created engaging content for LinkedIn, Instagram and Facebook
+- Increased audience engagement through digital marketing strategies
+- Designed marketing materials using Canva
 
 ---
+# 💻 Technical Skills
 
-#  Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,sql"/>
-</p>
-
----
-
-## Artificial Intelligence & Machine Learning
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql"/>
 </p>
+
+### AI & Data Science
+
+- TensorFlow
 - Scikit-Learn
 - Pandas
 - NumPy
 - Matplotlib
----
 
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap"/>
-</p>
----
-
-## Databases
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap"/>
 </p>
+
+### Databases
+
 - Oracle 11g XE
+- MySQL
 
----
-
-## Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
-- MATLAB          - Arduino IDE             - Canva
 
-# 🚀 Featured Hackathon Projects
+MATLAB • Arduino IDE • Canva
+---
+
+# 🚀 Featured AI & Systems Projects
 
 | Project | Description |
 |---------|-------------|
-| ❤️ **CardioGuard AI** | AI-powered heart disease prediction system developed for the **FrostByte Hackathon**, using machine learning to analyze clinical health data and predict cardiovascular risk. |
-| 🎮 **Atari Breakout (x86 Assembly)** | A recreation of the classic Atari Breakout game built entirely in **x86 Assembly (NASM)**, featuring collision detection, scoring, real-time gameplay, and sound effects. |
-| 🧠 **Neural Assembly Pattern Learning** | Interactive AI simulation implementing the **Assembly Calculus** framework to model how neural assemblies learn and recognize visual patterns through biologically inspired computation. |
+| ❤️ **CardioGuard AI** | Machine learning-based heart disease prediction system developed during the FrostByte Hackathon. |
+| 🎮 **Atari Breakout (x86 Assembly)** | Recreation of the classic Atari Breakout game developed entirely in x86 Assembly (NASM). |
+| 🧠 **Neural Assembly Pattern Learning** | Interactive simulation implementing the Assembly Calculus framework for biologically inspired visual pattern learning. |
 
----
+# 🌍 Hackathons & Programming Competitions
 
-#  Achievements
+I actively participate in hackathons and programming competitions to strengthen my problem-solving, teamwork, and software development skills while gaining hands-on experience in building real-world AI solutions.
 
-| Achievement | Details |
-|-------------|---------|
-| - FrostByte Hackathon Winner | Developed an AI-powered Heart Disease Prediction System |
-| - ICPC Asia Regional Programming Contest | Qualified for Round 2 (Top 200 Teams) |
-| - Harvard Puzzle Day | Led a team that successfully solved all 10/10 puzzles |
-| - International Hackathons | Participated in 5+ global hackathons on Devpost |
-| - Honhaar Scholarship | Fully funded merit scholarship (2024–2028) |
-| - Merit Scholarship | Awarded for maintaining Top 5% academic performance |
-| - UC Berkeley CALICO | Ranked among the Top 30% participants |
-| - LeetCode | Solved 50+ algorithmic programming problems |
+| Competition | Achievement |
+|-------------|-------------|
+| 🏆 **FrostByte Hackathon** | **Winner** – Developed **CardioGuard AI**, an AI-powered heart disease prediction system. Selected among **150+ teams**. |
+| 💻 **ICPC Regional Programming Contest** | Qualified for the **2nd Round**, selected among the **Top 200 teams** out of **1,500+**. |
+| 🧩 **Harvard Puzzle Day 2025** | **Winner** – Led a team of three and successfully solved **10/10 puzzles**. |
+| 🌍 **International Hackathons** | Participated in **5+ international hackathons**, competing against **3,000+ developers** on Devpost. |
+| 🎯 **CALICO Programming Contest (UC Berkeley)** | Ranked among the **Top 30%** of over **800 participants**. |
+| 💡 **LeetCode** | Solved **50+ coding problems** and regularly practice data structures and algorithms. |
 
----
+
 # 📌 Currently Exploring
 
 - 🤖 Artificial Intelligence & Machine Learning
@@ -159,8 +132,6 @@ I enjoy building intelligent software systems that combine **Artificial Intellig
 - 🐧 Linux & Operating Systems
 - ⚡ Competitive Programming
 - ☁️ Cloud Technologies
-
----
 ---
 
 ## ◈ GitHub Stats
@@ -187,11 +158,11 @@ I enjoy building intelligent software systems that combine **Artificial Intellig
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/asma-khan-28a552349">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Asmakhan427/Asmakhan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
