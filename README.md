@@ -31,25 +31,25 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
+
 ---
 
 ## ◈ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,react,nodejs,bootstrap,mysql"/>
 </p>
 
-![NASM](https://img.shields.io/badge/NASM-000080?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-191970?style=flat-square)
-![Oracle%2011g](https://img.shields.io/badge/Oracle_11g-0047AB?style=flat-square)
+![NASM](https://img.shields.io/badge/NASM-000080?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
@@ -63,36 +63,20 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap"/>
-</p>
-
----
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=flat-square&logo=oracle&logoColor=white)
-
----
-
-### 🛠️ Tools & Technologies
+### 🛠️ Databases, Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
+![Oracle 11g XE](https://img.shields.io/badge/Oracle_11g_XE-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </div>
 
+---
 ---
 
 ##  Featured Projects
