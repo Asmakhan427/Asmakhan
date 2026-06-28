@@ -26,7 +26,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm **Asma Khan**, a **Computer Science undergraduate at FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
 
@@ -34,7 +34,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 
 ---
 
-# 💻 Technical Skills
+#  Technical Skills
 
 ### Programming Languages
 
@@ -90,7 +90,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -100,7 +100,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 
 ---
 
-# 🏆 Achievements & Competitions
+#  Achievements & Competitions
 
 | Achievement | Details |
 |------------|---------|
@@ -113,7 +113,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 | ⭐ **Merit Scholarship** | Awarded for maintaining a **Top 5% academic rank** (2020–2024). |
 
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -125,7 +125,7 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
