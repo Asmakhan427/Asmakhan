@@ -163,3 +163,105 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 - Canva
 
 ---
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ❤️ **CardioGuard AI** | Machine learning-based heart disease prediction system using clinical health data and predictive analytics. |
+| 🧠 **EEG Seizure Detection** | Explainable AI system for seizure detection using Wavelet Transform and Ensemble Learning techniques. |
+| 🩺 **Stroke Detection System** | Deep learning-based Computer-Aided Diagnosis (CAD) system using CNNs and Grad-CAM for brain CT analysis. |
+| ❤️ **MedAssist AI** | AI-powered healthcare platform developed using Oracle 11g, Node.js, Express.js, and Python. |
+| 🏦 **Concurrent Banking System** | Multi-threaded banking simulation demonstrating operating system concepts including scheduling, synchronization, IPC, memory management, and deadlock avoidance. |
+| 🎮 **Atari Breakout (Assembly)** | Classic Atari Breakout game recreated in x86 Assembly (NASM) with real-time graphics and collision detection. |
+| 👑 **Stronghold Strategy Game** | Console-based medieval kingdom simulation built using Object-Oriented Programming principles in C++. |
+| 🧩 **Sudoku AI Solver** | Constraint Satisfaction Problem (CSP) solver using AC-3, MRV, Forward Checking, and Backtracking. |
+| 📑 **Automated Exam Management System** | AI-powered examination management system utilizing K-Means clustering for optimized seating allocation. |
+| 🤖 **Wumpus World Agent** | Knowledge-based intelligent agent using propositional logic and inference techniques. |
+| 🚚 **Intelligent Urban Delivery Robot** | AI-based delivery robot simulation implementing classical search algorithms for navigation. |
+| 🛣️ **Pathfinding Visualizer** | Interactive visualization of BFS, DFS, UCS, DLS, IDDFS, Bidirectional Search, A*, and Greedy Best-First Search algorithms. |
+
+---
+
+# 🏅 Achievements
+
+| Achievement | Details |
+|-------------|---------|
+| 🥇 FrostByte Hackathon Winner | Developed an AI-powered Heart Disease Prediction System |
+| 💻 ICPC Asia Regional Programming Contest | Qualified for Round 2 (Top 200 Teams) |
+| 🧩 Harvard Puzzle Day | Led a team that successfully solved all 10/10 puzzles |
+| 🌍 International Hackathons | Participated in 5+ global hackathons on Devpost |
+| 🎓 Honhaar Scholarship | Fully funded merit scholarship (2024–2028) |
+| ⭐ Merit Scholarship | Awarded for maintaining Top 5% academic performance |
+| 🎯 UC Berkeley CALICO | Ranked among the Top 30% participants |
+| 💡 LeetCode | Solved 50+ algorithmic programming problems |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 Currently Exploring
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Explainable AI (XAI)
+- 📊 Data Science & Predictive Analytics
+- 🏗️ Software Engineering & System Design
+- 🌐 Full-Stack Web Development
+- 🐧 Linux & Operating Systems
+- ⚡ Competitive Programming
+- ☁️ Cloud Technologies
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:asmakh1052@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Building intelligent software, one project at a time."*
+
+If you find my work interesting, feel free to explore my repositories, connect with me, or collaborate on exciting projects!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:3B82F6&height=120&section=footer"/>
+
+</div>
