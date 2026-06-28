@@ -21,13 +21,11 @@
 
 </div>
 
----
 ## 👩‍💻 About Me
 
-I'm Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
+I'm **Asma Khan**, an aspiring **Machine Learning Engineer** and **AI Developer** passionate about building intelligent software that solves real-world problems.
 
-I enjoy building intelligent software using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**. My interests include solving algorithmic problems, participating in hackathons, and developing practical solutions that address real-world challenges.
-
+My interests include **Machine Learning**, **Artificial Intelligence**, **Software Engineering**, **Competitive Programming**, and **Full-Stack Development**. I enjoy participating in hackathons, exploring emerging technologies, and continuously improving my problem-solving skills through practical projects.
 ## 💻 Technical Skills
 
 <p align="center">
