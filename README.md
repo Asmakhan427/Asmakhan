@@ -93,7 +93,6 @@ I enjoy building intelligent software using **Artificial Intelligence, Machine L
 - MATLAB 
 - Arduino IDE 
 - Canva
----
 
 # 🚀 Featured AI & Systems Projects
 
