@@ -21,7 +21,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Asmakhan427&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
