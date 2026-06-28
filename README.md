@@ -138,7 +138,6 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 </div>
 
----
 
 <div align="center">
 
