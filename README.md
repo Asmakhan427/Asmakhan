@@ -28,36 +28,6 @@ I'm Computer Science undergraduate at **FAST – National University of Computer
 
 I enjoy building intelligent software using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**. My interests include solving algorithmic problems, participating in hackathons, and developing practical solutions that address real-world challenges.
 
-# 💼 Experience
-
-## Development Co-Lead
-**ACM Student Chapter — FAST University**
-
-- Organize technical workshops and development activities
-- Mentor fellow students on technical projects
-- Collaborate on society events and software initiatives
-
----
-
-## Frontend Development Intern
-**Deimos Tech**  
-**June 2026 – Present**
-
-- Developed responsive websites using HTML, CSS and JavaScript
-- Built interactive web applications including an Image Gallery and Calculator
-- Improved UI responsiveness and user experience
-
----
-
-## Social Media Marketing Intern
-**Erudite Coaching Center**  
-**August 2025 – December 2025**
-
-- Created engaging content for LinkedIn, Instagram and Facebook
-- Increased audience engagement through digital marketing strategies
-- Designed marketing materials using Canva
-
----
 ## 💻 Technical Skills
 
 <p align="center">
