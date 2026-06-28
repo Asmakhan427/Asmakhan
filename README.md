@@ -29,26 +29,59 @@ Computer Science undergraduate at **FAST – National University of Computer & E
 
 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. Interests include algorithmic problem-solving, hackathons, and building practical solutions for real-world challenges.
 
----
+# 💻 Technical Skills
 
-##  Technical Skills
+### Programming Languages
 
-### Languages
-`C++` `C` `Python` `JavaScript` `HTML` `CSS` `SQL`
+<p align="center">
 
-### AI & Data Science
-`TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
+<img src="https://img.shields.io/badge/Python-000080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-000080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-000080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-000080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-000080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NASM-000080?style=for-the-badge"/>
+
+</p>
+
+### AI & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-191970?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-191970?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-191970?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-191970?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-191970?style=for-the-badge"/>
+
+</p>
 
 ### Web Development
-`React` `Node.js` `Bootstrap`
 
-### Databases
-`Oracle 11g XE` `MySQL`
+<p align="center">
 
-### Tools
-`Git` `GitHub` `VS Code` `MATLAB` `Arduino IDE` `Canva`
+<img src="https://img.shields.io/badge/HTML5-0047AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CSS3-0047AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-0047AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-0047AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-0047AB?style=for-the-badge"/>
 
----
+</p>
+
+### Databases & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATLAB-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Arduino-00008B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Canva-00008B?style=for-the-badge"/>
+
+</p>
 
 ##  Featured Projects
 
