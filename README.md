@@ -1,8 +1,7 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3A8A,50:2563EB,100:3B82F6&text=Asma%20Khan&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20AI%20Enthusiast%20|%20Competitive%20Programmer&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=BS+Computer+Science+Student+at+FAST+University;Artificial+Intelligence+%7C+Machine+Learning;Competitive+Programmer+%7C+ICPC+Regionalist;Hackathon+Winner;Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=BS+Computer+Science+Student+at+FAST+University;Artificial+Intelligence+%7C+Machine+Learning;Competitive+Programmer+%7C+ICPC+Regionalist;Hackathon+Winner;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -134,21 +133,19 @@ I actively participate in hackathons and programming competitions to strengthen 
 - ☁️ Cloud Technologies
 ---
 
-## ◈ GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- STREAK STATS - Alternative working domain -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
-  
-  
-  <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asmakhan427&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
-</div>
 
-<div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asmakhan427&theme=tokyonight" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmakhan427&show_icons=true&theme=github_dark&hide_border=true&title_color=3B82F6&icon_color=2563EB&text_color=FFFFFF&bg_color=0D1117"/>
 
+<img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&background=0D1117&stroke=2563EB"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhan427&layout=compact&theme=github_dark&hide_border=true&title_color=3B82F6&text_color=FFFFFF&bg_color=0D1117"/>
+
+</div>
 ---
 # 🤝 Let's Connect
 
