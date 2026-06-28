@@ -23,67 +23,62 @@
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 Computer Science undergraduate at **FAST – National University of Computer & Emerging Sciences (FAST-NUCES), Pakistan**.
 
 Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. Interests include algorithmic problem-solving, hackathons, and building practical solutions for real-world challenges.
 
-# 💻 Technical Skills
+---
 
-### Programming Languages
+## 💻 Technical Skills
+
+### Languages
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-000080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-000080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C-000080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-000080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-000080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NASM-000080?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Python-000080?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000080?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000080?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000080?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000080?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000080?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### AI & Machine Learning
+### AI & Data Science
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow-191970?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-191970?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-191970?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-191970?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-191970?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/TensorFlow-191970?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-191970?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-191970?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-191970?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### Web Development
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-0047AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CSS3-0047AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-0047AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Node.js-0047AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-0047AB?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/React-0047AB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-0047AB?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0047AB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ### Databases & Tools
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Oracle-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00008B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Canva-00008B?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/Oracle-00008B?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00008B?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-00008B?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-00008B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-00008B?style=for-the-badge&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00008B?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00008B?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-##  Featured Projects
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -93,7 +88,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-##  Hackathons & Competitions
+## 🏆 Hackathons & Competitions
 
 | Competition | Achievement |
 |-------------|-------------|
@@ -105,7 +100,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -121,7 +116,7 @@ Passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Dev
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
