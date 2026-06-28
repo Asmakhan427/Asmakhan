@@ -207,18 +207,19 @@ Beyond academics, I actively participate in hackathons, programming contests, an
 ---
 ---
 
-# 📊 GitHub Statistics
+## ◈ GitHub Stats
 
 <div align="center">
+  <!-- STREAK STATS - Alternative working domain -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Asmakhan427&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
+  
+  
+  <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asmakhan427&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+</div>
 
-<img width="1141" height="697" alt="image" src="https://github.com/user-attachments/assets/772d4cb7-54e6-426d-ae62-b1843550daaf" />
-<img width="1156" height="508" alt="image" src="https://github.com/user-attachments/assets/1327d668-02d9-4138-aae7-568ee3a17e4d" />
-
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmakhan427&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asmakhan427&theme=tokyonight" />
 </div>
 
 ---
